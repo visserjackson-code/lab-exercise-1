@@ -1,3 +1,5 @@
+//view as code to see each command on a seperate line
+
 jvisser@Jacksons-MacBook-Air newfolder % mkdir Tuna
 jvisser@Jacksons-MacBook-Air newfolder % cd Tuna
 jvisser@Jacksons-MacBook-Air Tuna % mkdir Matza
